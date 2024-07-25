@@ -10,6 +10,7 @@ dependencies:
     - sphinx-gallery
     - pandas
     - pydub
+    - scipy
     - matplotlib
     - ipympl
     - ipywidgets
