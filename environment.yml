@@ -9,6 +9,7 @@ dependencies:
     - nbgitpuller
     - sphinx-gallery
     - pandas
+    - pydub
     - matplotlib
     - ipympl
     - ipywidgets
